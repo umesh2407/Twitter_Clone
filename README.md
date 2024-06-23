@@ -1,3 +1,3 @@
-# Twitter_Clone
+#Twitter Clone
 
-A Full Stack Twitter Application made with a MERN Stack.
+A full Stack MERN application which is a clone for the Twitter Application.
